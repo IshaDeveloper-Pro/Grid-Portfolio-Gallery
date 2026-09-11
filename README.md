@@ -15,4 +15,4 @@ A modern, visually stunning photo gallery and portfolio showcase built using HTM
 ## 💻 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IshaDeveloper-Pro/Grid-Portfolio.git
+  git clone https://github.com/IshaDeveloper-Pro/Grid-Portfolio.git
