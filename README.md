@@ -1,6 +1,8 @@
 # 🖼️ Interactive Grid Portfolio Gallery
 
 A modern, visually stunning photo gallery and portfolio showcase built using HTML5 and CSS3 Grid, featuring smooth hover effects and responsive design.
+## 🔗 Live Demo
+https://ishadeveloper-pro.github.io/Grid-Portfolio-Gallery/
 
 ## ✨ Features
 * **CSS Grid Layout:** Designed with a sophisticated multi-image layout showcasing nature categories (Waterfalls, Ocean, Mountains, Trees, Beach, etc.).
